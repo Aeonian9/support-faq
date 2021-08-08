@@ -16,6 +16,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Infinito] |Light    |✅                |✅              |⭕     |❌                           |[❌](https://github.com/infinityblockchainlabs)|[Infinito]|Android, Iphone|
 |[MoonStake]|Light    |❌                |❌              |⭕     |❌                           |❌|[MoonStake]|Web, Android, IPhone|
 |[Exodus]   |Light    |❌                |❌              |⭕     |❌                           |❌|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+|[Adaly]    |Light    |✅                |✅              |✅     |Ledger Nano S/X               |❌|[Adaly]|Web, Android, Windows phone|
 
 !> ⭕: These wallets do not allow a transparent staking experience, user funds are staked against their own/partner stakepools. This is not an ideal use-case for decentralisation.
 
@@ -29,3 +30,4 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Exodus]: https://www.exodus.io/
 [Infinito]: https://www.infinitowallet.io
 [MoonStake]: https://moonstake.io/
+[Adaly]: https://adaly.io
